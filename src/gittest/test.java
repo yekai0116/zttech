@@ -9,5 +9,7 @@ public class test {
 	//git@github.com:yekai0116/zttech.git
 	public String ss4;
 	
+	public String ss5;
+	
 	
 }
